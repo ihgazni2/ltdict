@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 setup(
-      name="qtable",
+      name="ltdict",
       version = "0.4",
       description="handle,.in progressing..,APIs",
       author="dapeli",
-      url="https://github.com/ihgazni2/qtable",
+      url="https://github.com/ihgazni2/ltdict",
       author_email='terryinzaghi@163.com', 
       license="MIT",
-      long_description = "refer to .md files in https://github.com/ihgazni2/qtable",
+      long_description = "refer to .md files in https://github.com/ihgazni2/ltdict",
       classifiers=[
           'Environment :: Console',
           'Environment :: Web Environment',
@@ -17,7 +17,7 @@ setup(
           'Programming Language :: Python',
           ],
       packages= find_packages(),
-      py_modules=['qtable'], 
+      py_modules=['ltdict'], 
       )
 
 
